@@ -1,0 +1,8 @@
+opencv-python
+scipy
+tensorflow-gpu==2.10.0
+numpy
+tf-models-official
+wheel
+requests
+pycocotools
