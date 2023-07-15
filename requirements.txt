@@ -6,3 +6,4 @@ tf-models-official
 wheel
 requests
 pycocotools
+selenium

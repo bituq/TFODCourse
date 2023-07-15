@@ -1,0 +1,1 @@
+Run with `"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --remote-debugging-port=9222`
